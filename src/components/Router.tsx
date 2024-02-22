@@ -1,4 +1,4 @@
-import HomePage from "pages/home";
+import HomePage from "pages/home/index";
 import NotificationsPage from "pages/notifications";
 import PostListPage from "pages/posts";
 import PostDetail from "pages/posts/detail";
